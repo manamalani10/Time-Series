@@ -1,4 +1,4 @@
-# Time-Series
+# Transformer Time-Series
 Work Done for Univarite Time Series Prediction Using Transformers Network,
 The Model used show the use of Transformer Network in Predicting Sigmoid Function and classic time series dataset "Daily_min_Temp".
 
